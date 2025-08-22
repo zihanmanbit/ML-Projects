@@ -1,0 +1,6 @@
+[submodule "Python-Programming-and-Basic-Data-Science-Project"]
+	path = Python-Programming-and-Basic-Data-Science-Project
+	url = https://github.com/zihanmanbit/Python-Programming-and-Basic-Data-Science-Project
+[submodule "Simple-Linear-Regression-Projects"]
+	path = Simple-Linear-Regression-Projects
+	url = https://github.com/zihanmanbit/Simple-Linear-Regression-Projects
