@@ -108,11 +108,3 @@ jupyter notebook Tesla_Stock_Price_Prediction_using_Facebook_Prophet.ipynb
 - Credentials: [https://www.coursera.org/account/accomplishments/verify/A2MGKQWTZX8C](https://www.coursera.org/account/accomplishments/verify/A2MGKQWTZX8C)
 
 ---
-
-## 👤 Author
-
-**Zihan Manbit**
-
-GitHub: [https://github.com/zihanmanbit](https://github.com/zihanmanbit) 
-
---- 
