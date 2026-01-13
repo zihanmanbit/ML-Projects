@@ -23,6 +23,16 @@ This project aims to **identify high-risk individuals early** using machine lear
 
 ---
 
+## 📐 Problem Formulation
+
+- **Classification**  
+  - Target: `high_risk_flag` (High risk vs. Non-risk)
+
+- **Regression**  
+  - Target: `digital_dependence_score`
+
+---
+
 ## 🗂 Dataset
 
 - **Name:** Digital Lifestyle Benchmark Dataset  
